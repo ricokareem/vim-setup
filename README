@@ -1,3 +1,5 @@
-clone repo
+1. mv ~/.vim ~/.vimbackup
 
-ln -s ~/.vim/vimrc ~/.vimrc
+2. git clone git@github.com:ricokareem/vim-setup.git ~/.vim
+
+3. ln -s ~/.vim/vimrc ~/.vimrc 
