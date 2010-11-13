@@ -1,0 +1,3 @@
+clone repo
+
+ln -s ~/.vim/vimrc ~/.vimrc
