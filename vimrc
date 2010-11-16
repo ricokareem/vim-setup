@@ -1,6 +1,7 @@
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
+:colorscheme koehler
 set hidden
 set number
 set vb t_vb=
