@@ -1,5 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =5
 let g:netrw_dirhist_1='/Users/rico/git/myvbi'
 let g:netrw_dirhist_2='/Users/rico/git/myvbi/js'
 let g:netrw_dirhist_3='/Users/rico/Sites/myvbi'
+let g:netrw_dirhist_4='/Users/rico/git/homework'
+let g:netrw_dirhist_5='/Users/rico/git'
