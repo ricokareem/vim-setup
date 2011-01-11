@@ -2,6 +2,7 @@ call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
 :colorscheme koehler
+:set paste
 :set incsearch
 :set hlsearch
 :set wrapscan
