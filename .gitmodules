@@ -4,3 +4,6 @@
 [submodule "bundle/vim-extradite"]
 	path = bundle/vim-extradite
 	url = https://github.com/int3/vim-extradite.git
+[submodule "bundle/ruby_single_test"]
+	path = bundle/ruby_single_test
+	url = https://github.com/dmcinnes/ruby_single_test.git
