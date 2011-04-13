@@ -1,7 +1,7 @@
 call pathogen#runtime_append_all_bundles()
 call pathogen#helptags()
 
-:colorscheme koehler
+:colorscheme sienna
 :set paste
 :set incsearch
 :set hlsearch
