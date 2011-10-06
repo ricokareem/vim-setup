@@ -19,3 +19,6 @@
 [submodule "bundle/gitv-1.0"]
 	path = bundle/gitv-1.0
 	url = git://github.com/gregsexton/gitv.git
+[submodule "bundle/vim-rails"]
+	path = bundle/vim-rails
+	url = git://github.com/tpope/vim-rails.git
